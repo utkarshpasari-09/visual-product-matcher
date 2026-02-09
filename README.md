@@ -52,13 +52,12 @@ Frontend
 
 Open frontend/index.html directly in your browser.
 
-🌐 Deployment
+## Deployment Note
 
-Backend: Deployed on Render
+The application backend uses a deep learning model for image feature extraction, which exceeds the memory limits of free-tier hosting services such as Render. The backend has been tested locally and functions as expected.
 
-Frontend: Deployed on Vercel
+In a production setting, this service would be deployed using higher-memory infrastructure or a dedicated inference service. The frontend and backend codebases are fully implemented and documented in this repository.
 
-(Links provided in the project submission.)
 
 
 📦 Dataset
