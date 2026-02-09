@@ -1,0 +1,61 @@
+id,name,category,image_url
+1,White Running Shoes,Footwear,https://images.unsplash.com/photo-1542291026-7eec264c27ff
+2,Black Running Shoes,Footwear,https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb
+3,Red Sports Shoes,Footwear,https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77
+4,Casual Sneakers,Footwear,https://images.unsplash.com/photo-1606813902914-0c7a0b9f0f64
+5,High Top Sneakers,Footwear,https://images.unsplash.com/photo-1519744792095-2f2205e87b6f
+6,Formal Leather Shoes,Footwear,https://images.unsplash.com/photo-1618354691373-d851c5c3a990
+7,Blue Denim Shirt,Clothing,https://images.unsplash.com/photo-1520975916090-3105956dac38
+8,White Cotton Shirt,Clothing,https://images.unsplash.com/photo-1602810318383-e386cc6c2b23
+9,Black T-Shirt,Clothing,https://images.unsplash.com/photo-1585386959984-a41552231693
+10,Graphic T-Shirt,Clothing,https://images.unsplash.com/photo-1521572163474-6864f9cf17ab
+11,Formal Blazer,Clothing,https://images.unsplash.com/photo-1521334884684-d80222895322
+12,Winter Hoodie,Clothing,https://images.unsplash.com/photo-1609873814058-a8928924184a
+13,Leather Backpack,Bags,https://images.unsplash.com/photo-1593032465171-8c98f2b4d92c
+14,Travel Backpack,Bags,https://images.unsplash.com/photo-1553062407-98eeb64c6a62
+15,Canvas Shoulder Bag,Bags,https://images.unsplash.com/photo-1622560480654-d96214fdc887
+16,Laptop Bag,Bags,https://images.unsplash.com/photo-1585386959984-ef9c2d0c6b88
+17,Handbag,Bags,https://images.unsplash.com/photo-1590874103328-eac38a683ce7
+18,Sling Bag,Bags,https://images.unsplash.com/photo-1618354691304-6d1f6c192d08
+19,Silver Analog Watch,Watches,https://images.unsplash.com/photo-1523275335684-37898b6baf30
+20,Black Analog Watch,Watches,https://images.unsplash.com/photo-1547996160-81dfa63595aa
+21,Leather Strap Watch,Watches,https://images.unsplash.com/photo-1508057198894-247b23fe5ade
+22,Smart Watch,Watches,https://images.unsplash.com/photo-1523475496153-3d6cc3000caa
+23,Gold Wrist Watch,Watches,https://images.unsplash.com/photo-1518544801976-3e159e50e5bb
+24,Sports Watch,Watches,https://images.unsplash.com/photo-1598300053653-78d3a9a07a6d
+25,Wireless Headphones,Headphones,https://images.unsplash.com/photo-1505740420928-5e560c06d30e
+26,Over Ear Headphones,Headphones,https://images.unsplash.com/photo-1585386959984-11b2c60edcbb
+27,Bluetooth Earbuds,Headphones,https://images.unsplash.com/photo-1590658268037-6bf12165a8df
+28,Noise Cancelling Headphones,Headphones,https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb
+29,Gaming Headset,Headphones,https://images.unsplash.com/photo-1583394838336-acd977736f90
+30,Studio Headphones,Headphones,https://images.unsplash.com/photo-1519671482749-fd09be7ccebf
+31,Classic Sunglasses,Sunglasses,https://images.unsplash.com/photo-1511499767150-a48a237f0083
+32,Aviator Sunglasses,Sunglasses,https://images.unsplash.com/photo-1572635196237-14b3f281503f
+33,Round Frame Sunglasses,Sunglasses,https://images.unsplash.com/photo-1593032465171-1c1e9f7f8d4a
+34,Black Sunglasses,Sunglasses,https://images.unsplash.com/photo-1503342217505-b0a15ec3261c
+35,Reflective Sunglasses,Sunglasses,https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f
+36,Wayfarer Sunglasses,Sunglasses,https://images.unsplash.com/photo-1569398034127-0b13caa8d49c
+37,Leather Wallet,Accessories,https://images.unsplash.com/photo-1622560480654-24e3c8bb67a1
+38,Men’s Belt,Accessories,https://images.unsplash.com/photo-1609873814058-6d6f87d0ed6f
+39,Bracelet,Accessories,https://images.unsplash.com/photo-1600180758890-6c6c0c8d9d0f
+40,Silver Necklace,Accessories,https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f
+41,Earrings,Accessories,https://images.unsplash.com/photo-1535632066927-ab7c9ab60908
+42,Leather Gloves,Accessories,https://images.unsplash.com/photo-1618354691370-4b8b8a9e37b0
+43,Running Cap,Accessories,https://images.unsplash.com/photo-1593032465171-2c6e77c9b5b7
+44,Beanie Cap,Accessories,https://images.unsplash.com/photo-1520975916090-11c8bbcd4a5c
+45,Formal Tie,Accessories,https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb
+46,Formal Trousers,Clothing,https://images.unsplash.com/photo-1521334884684-4d9e0f4a8f92
+47,Jeans Pants,Clothing,https://images.unsplash.com/photo-1541099649105-f69ad21f3246
+48,Chinos Pants,Clothing,https://images.unsplash.com/photo-1620799140408-edc6dcb6d633
+49,Cargo Pants,Clothing,https://images.unsplash.com/photo-1603252109303-2751441dd157
+50,Shorts,Clothing,https://images.unsplash.com/photo-1593032465171-5c2a0f8f2c2a
+51,Slip On Shoes,Footwear,https://images.unsplash.com/photo-1525966222134-2f19b23c88f8
+52,Flip Flops,Footwear,https://images.unsplash.com/photo-1585386959984-2a0a7c82d5f5
+53,Formal Heels,Footwear,https://images.unsplash.com/photo-1519744792095-4e1b88c56e3f
+54,Ankle Boots,Footwear,https://images.unsplash.com/photo-1542291026-d2b77b3c47cc
+55,Trekking Shoes,Footwear,https://images.unsplash.com/photo-1600185365926-4f07efb4d03f
+56,Clutch Bag,Bags,https://images.unsplash.com/photo-1618354691345-5b6b5c8cfae3
+57,Duffel Bag,Bags,https://images.unsplash.com/photo-1553062407-0c3b5d0f33f5
+58,Tote Bag,Bags,https://images.unsplash.com/photo-1622560480654-0e7eac8f3c42
+59,Smart Fitness Band,Watches,https://images.unsplash.com/photo-1579586337278-3befd40fd17a
+60,Luxury Watch,Watches,https://images.unsplash.com/photo-1523275335684-9fbd0f4c5f94
