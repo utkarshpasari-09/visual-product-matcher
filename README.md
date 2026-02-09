@@ -17,7 +17,7 @@ This project was built as part of a technical assessment to demonstrate full-sta
 
 ## 🧠 Technical Approach
 
-The backend is built using **FastAPI** and leverages a pretrained **ResNet-50** convolutional neural network for image feature extraction.  
+The backend is built using **FastAPI** and leverages a pretrained **ResNet-18** convolutional neural network for image feature extraction.  
 Each product image is converted into a fixed-length embedding vector. When a user submits a query image, its embedding is computed and compared with stored product embeddings using **cosine similarity** to find visually similar items.
 
 The frontend is implemented using **HTML, CSS, and vanilla JavaScript**, providing a lightweight and responsive interface that communicates with the backend via HTTP requests.
@@ -72,7 +72,8 @@ Includes basic metadata such as name and category
 
 
 
-Project Explanation 
+Project Explanation git status
+
 
 I built a Visual Product Matcher web application that enables users to find visually similar products using an uploaded image or an image URL. The objective of the project was to design a practical, end-to-end system that combines computer vision with a clean, user-friendly web interface.
 
