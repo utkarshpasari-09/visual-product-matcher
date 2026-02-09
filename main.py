@@ -16,7 +16,7 @@ CSV_PATH = os.path.join(BASE_DIR, "products.csv")
 products_df = pd.read_csv(CSV_PATH)
 
 # ---------- Load ResNet (light & stable) ----------
-resnet = models.resnet50(pretrained=True)
+resnet = models.resnet18(pretrained=True)
 resnet.eval()
 resnet = torch.nn.Sequential(*list(resnet.children())[:-1])
 
